@@ -63,7 +63,7 @@ functional out of the box for local development and demos.
 ## 3. Project Structure
 
 ```
-CampusIQ/
+Campus-iq/
 ├── backend/
 │   ├── main.py                  # FastAPI entrypoint
 │   ├── api/routes.py            # All REST endpoints
@@ -217,6 +217,4 @@ matures beyond the synthetic dataset.
 
 ## 10. License
 
-This project was generated as a hackathon submission template for the
-Microsoft Agents League 2026 – Reasoning Agents Track. Adapt freely for
-your submission.
+MIT License - CampusIQ 
