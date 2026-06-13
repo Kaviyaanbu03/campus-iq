@@ -1,0 +1,348 @@
+/* ============================================================
+   CampusIQ X - Global Styles
+   Theme: Microsoft Fluent-inspired, Blue + White, Purple Gradients,
+   Glassmorphism, Rounded Cards, Light/Dark Mode support.
+   ============================================================ */
+
+:root {
+  --ciq-bg: #f3f6fc;
+  --ciq-bg-gradient: linear-gradient(135deg, #eef2fb 0%, #e6ecfb 50%, #efe9fb 100%);
+  --ciq-surface: rgba(255, 255, 255, 0.65);
+  --ciq-surface-solid: #ffffff;
+  --ciq-border: rgba(15, 23, 42, 0.08);
+  --ciq-text-primary: #0f1729;
+  --ciq-text-secondary: #5b6473;
+  --ciq-accent-blue: #2563eb;
+  --ciq-accent-purple: #7c3aed;
+  --ciq-gradient-primary: linear-gradient(135deg, #2563eb 0%, #7c3aed 100%);
+  --ciq-gradient-soft: linear-gradient(135deg, rgba(37, 99, 235, 0.12) 0%, rgba(124, 58, 237, 0.12) 100%);
+  --ciq-success: #16a34a;
+  --ciq-warning: #d97706;
+  --ciq-danger: #dc2626;
+  --ciq-shadow: 0 8px 30px rgba(31, 41, 78, 0.08);
+  --ciq-shadow-strong: 0 12px 40px rgba(31, 41, 78, 0.14);
+  --ciq-radius-lg: 20px;
+  --ciq-radius-md: 14px;
+  --ciq-radius-sm: 10px;
+  --ciq-sidebar-width: 260px;
+  --ciq-topnav-height: 64px;
+}
+
+[data-theme="dark"] {
+  --ciq-bg: #0b1120;
+  --ciq-bg-gradient: linear-gradient(135deg, #0b1120 0%, #121a2e 50%, #181229 100%);
+  --ciq-surface: rgba(23, 28, 46, 0.65);
+  --ciq-surface-solid: #161c2e;
+  --ciq-border: rgba(255, 255, 255, 0.08);
+  --ciq-text-primary: #f1f5f9;
+  --ciq-text-secondary: #94a3b8;
+  --ciq-shadow: 0 8px 30px rgba(0, 0, 0, 0.35);
+  --ciq-shadow-strong: 0 12px 40px rgba(0, 0, 0, 0.5);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", "Segoe UI Web", -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
+  background: var(--ciq-bg-gradient);
+  color: var(--ciq-text-primary);
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* ------------------------------------------------------------
+   Layout shell
+   ------------------------------------------------------------ */
+
+.ciq-app-shell {
+  display: flex;
+  min-height: 100vh;
+}
+
+.ciq-main-area {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  margin-left: var(--ciq-sidebar-width);
+  min-width: 0;
+}
+
+.ciq-page-content {
+  padding: 28px 32px 48px;
+  flex: 1;
+}
+
+@media (max-width: 1024px) {
+  .ciq-main-area {
+    margin-left: 0;
+  }
+}
+
+/* ------------------------------------------------------------
+   Glass card
+   ------------------------------------------------------------ */
+
+.ciq-glass-card {
+  background: var(--ciq-surface);
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+  border: 1px solid var(--ciq-border);
+  border-radius: var(--ciq-radius-lg);
+  box-shadow: var(--ciq-shadow);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.ciq-glass-card:hover {
+  box-shadow: var(--ciq-shadow-strong);
+}
+
+.ciq-card-pad {
+  padding: 20px 22px;
+}
+
+/* ------------------------------------------------------------
+   Gradient text / accents
+   ------------------------------------------------------------ */
+
+.ciq-gradient-text {
+  background: var(--ciq-gradient-primary);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.ciq-gradient-pill {
+  background: var(--ciq-gradient-primary);
+  color: #fff;
+  border-radius: 999px;
+  padding: 4px 14px;
+  font-size: 12px;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+/* ------------------------------------------------------------
+   Grid helpers
+   ------------------------------------------------------------ */
+
+.ciq-grid {
+  display: grid;
+  gap: 20px;
+}
+
+.ciq-grid-4 {
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.ciq-grid-3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.ciq-grid-2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+@media (max-width: 1280px) {
+  .ciq-grid-4 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .ciq-grid-3 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 720px) {
+  .ciq-grid-4,
+  .ciq-grid-3,
+  .ciq-grid-2 {
+    grid-template-columns: 1fr;
+  }
+  .ciq-page-content {
+    padding: 18px;
+  }
+}
+
+/* ------------------------------------------------------------
+   Page header
+   ------------------------------------------------------------ */
+
+.ciq-page-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.ciq-page-title {
+  font-size: 26px;
+  font-weight: 700;
+  margin: 0 0 4px;
+}
+
+.ciq-page-subtitle {
+  font-size: 14px;
+  color: var(--ciq-text-secondary);
+  margin: 0;
+}
+
+/* ------------------------------------------------------------
+   Loading skeleton
+   ------------------------------------------------------------ */
+
+.ciq-skeleton {
+  border-radius: var(--ciq-radius-md);
+  background: linear-gradient(
+    90deg,
+    rgba(148, 163, 184, 0.15) 25%,
+    rgba(148, 163, 184, 0.3) 37%,
+    rgba(148, 163, 184, 0.15) 63%
+  );
+  background-size: 400% 100%;
+  animation: ciq-skeleton-loading 1.4s ease infinite;
+}
+
+@keyframes ciq-skeleton-loading {
+  0% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0 50%;
+  }
+}
+
+/* ------------------------------------------------------------
+   Confidence ring
+   ------------------------------------------------------------ */
+
+.ciq-ring-wrapper {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ciq-ring-value {
+  position: absolute;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+/* ------------------------------------------------------------
+   Reasoning timeline (AI Chat)
+   ------------------------------------------------------------ */
+
+.ciq-timeline-item {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 12px 16px;
+  border-radius: var(--ciq-radius-sm);
+  border: 1px solid var(--ciq-border);
+  background: var(--ciq-surface-solid);
+  margin-bottom: 10px;
+}
+
+.ciq-timeline-icon {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--ciq-gradient-soft);
+  color: var(--ciq-accent-blue);
+  flex-shrink: 0;
+}
+
+.ciq-timeline-body {
+  flex: 1;
+  min-width: 0;
+}
+
+.ciq-timeline-name {
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.ciq-timeline-summary {
+  font-size: 12.5px;
+  color: var(--ciq-text-secondary);
+  margin-top: 2px;
+}
+
+.ciq-timeline-confidence {
+  font-weight: 700;
+  font-size: 14px;
+  color: var(--ciq-success);
+  flex-shrink: 0;
+}
+
+/* ------------------------------------------------------------
+   Misc utilities
+   ------------------------------------------------------------ */
+
+.ciq-flex {
+  display: flex;
+}
+
+.ciq-flex-between {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.ciq-mt-8 {
+  margin-top: 8px;
+}
+.ciq-mt-16 {
+  margin-top: 16px;
+}
+.ciq-mt-24 {
+  margin-top: 24px;
+}
+
+.ciq-text-secondary {
+  color: var(--ciq-text-secondary);
+}
+
+.ciq-scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+.ciq-scrollbar::-webkit-scrollbar-thumb {
+  background: rgba(124, 58, 237, 0.3);
+  border-radius: 999px;
+}
+
+/* ------------------------------------------------------------
+   Spin animation (AI Chat loading indicator)
+   ------------------------------------------------------------ */
+
+.ciq-spin {
+  animation: ciq-spin-rotate 1.4s linear infinite;
+}
+
+@keyframes ciq-spin-rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

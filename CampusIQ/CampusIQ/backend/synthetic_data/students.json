@@ -1,0 +1,1939 @@
+[
+  {
+    "student_id": "CIQ0001",
+    "name": "Kabir Pillai",
+    "department": "AI & Data Science",
+    "semester": 6,
+    "attendance_percent": 59.9,
+    "subjects": [
+      "Machine Learning",
+      "Deep Learning",
+      "Statistics for AI",
+      "Data Mining",
+      "NLP"
+    ],
+    "internal_marks": {
+      "Machine Learning": 18,
+      "Deep Learning": 17,
+      "Statistics for AI": 17,
+      "Data Mining": 14,
+      "NLP": 13
+    },
+    "external_marks": {
+      "Machine Learning": 99,
+      "Deep Learning": 41,
+      "Statistics for AI": 84,
+      "Data Mining": 34,
+      "NLP": 33
+    },
+    "cgpa": 5.69,
+    "skills": [
+      "Algorithms",
+      "Power BI",
+      "Python",
+      "TensorFlow",
+      "SQL"
+    ],
+    "certifications": [
+      "Google Data Analytics Certificate",
+      "HackerRank Problem Solving (Intermediate)",
+      "Oracle Java SE Certified"
+    ],
+    "placement_status": "Not Started",
+    "interview_readiness": 86.5,
+    "study_hours_per_day": 1.7,
+    "risk_level": "High",
+    "weak_subjects": [
+      "Deep Learning",
+      "Data Mining",
+      "NLP"
+    ],
+    "resume_score": 55.3
+  },
+  {
+    "student_id": "CIQ0002",
+    "name": "Aadhya Mehta",
+    "department": "Electronics",
+    "semester": 8,
+    "attendance_percent": 61.8,
+    "subjects": [
+      "Digital Electronics",
+      "Signals & Systems",
+      "Microprocessors",
+      "VLSI Design",
+      "Communication Systems"
+    ],
+    "internal_marks": {
+      "Digital Electronics": 20,
+      "Signals & Systems": 13,
+      "Microprocessors": 12,
+      "VLSI Design": 22,
+      "Communication Systems": 13
+    },
+    "external_marks": {
+      "Digital Electronics": 75,
+      "Signals & Systems": 74,
+      "Microprocessors": 63,
+      "VLSI Design": 35,
+      "Communication Systems": 88
+    },
+    "cgpa": 6.38,
+    "skills": [
+      "C++",
+      "TensorFlow",
+      "AWS",
+      "Docker",
+      "SQL",
+      "Communication",
+      "Java"
+    ],
+    "certifications": [
+      "Oracle Java SE Certified"
+    ],
+    "placement_status": "Not Started",
+    "interview_readiness": 85.6,
+    "study_hours_per_day": 4.8,
+    "risk_level": "Medium",
+    "weak_subjects": [
+      "VLSI Design"
+    ],
+    "resume_score": 94.2
+  },
+  {
+    "student_id": "CIQ0003",
+    "name": "Karan Joshi",
+    "department": "AI & Data Science",
+    "semester": 4,
+    "attendance_percent": 91.7,
+    "subjects": [
+      "Machine Learning",
+      "Deep Learning",
+      "Statistics for AI",
+      "Data Mining",
+      "NLP"
+    ],
+    "internal_marks": {
+      "Machine Learning": 15,
+      "Deep Learning": 21,
+      "Statistics for AI": 21,
+      "Data Mining": 16,
+      "NLP": 18
+    },
+    "external_marks": {
+      "Machine Learning": 39,
+      "Deep Learning": 51,
+      "Statistics for AI": 98,
+      "Data Mining": 61,
+      "NLP": 50
+    },
+    "cgpa": 6.0,
+    "skills": [
+      "Excel",
+      "TensorFlow",
+      "Machine Learning",
+      "Azure",
+      "Java",
+      "Power BI"
+    ],
+    "certifications": [],
+    "placement_status": "Placed",
+    "interview_readiness": 56.1,
+    "study_hours_per_day": 4.2,
+    "risk_level": "Low",
+    "weak_subjects": [
+      "Machine Learning"
+    ],
+    "resume_score": 84.3
+  },
+  {
+    "student_id": "CIQ0004",
+    "name": "Aadhya Desai",
+    "department": "AI & Data Science",
+    "semester": 5,
+    "attendance_percent": 77.0,
+    "subjects": [
+      "Machine Learning",
+      "Deep Learning",
+      "Statistics for AI",
+      "Data Mining",
+      "NLP"
+    ],
+    "internal_marks": {
+      "Machine Learning": 30,
+      "Deep Learning": 24,
+      "Statistics for AI": 14,
+      "Data Mining": 18,
+      "NLP": 14
+    },
+    "external_marks": {
+      "Machine Learning": 61,
+      "Deep Learning": 98,
+      "Statistics for AI": 63,
+      "Data Mining": 84,
+      "NLP": 81
+    },
+    "cgpa": 7.49,
+    "skills": [
+      "Algorithms",
+      "Data Structures",
+      "C++",
+      "Java",
+      "JavaScript"
+    ],
+    "certifications": [
+      "AWS Certified Cloud Practitioner"
+    ],
+    "placement_status": "Placed",
+    "interview_readiness": 57.4,
+    "study_hours_per_day": 3.5,
+    "risk_level": "Low",
+    "weak_subjects": [],
+    "resume_score": 83.6
+  },
+  {
+    "student_id": "CIQ0005",
+    "name": "Myra Kapoor",
+    "department": "Civil",
+    "semester": 4,
+    "attendance_percent": 92.9,
+    "subjects": [
+      "Structural Analysis",
+      "Geotechnical Engineering",
+      "Surveying",
+      "Concrete Technology",
+      "Hydraulics"
+    ],
+    "internal_marks": {
+      "Structural Analysis": 10,
+      "Geotechnical Engineering": 13,
+      "Surveying": 27,
+      "Concrete Technology": 18,
+      "Hydraulics": 30
+    },
+    "external_marks": {
+      "Structural Analysis": 73,
+      "Geotechnical Engineering": 44,
+      "Surveying": 67,
+      "Concrete Technology": 85,
+      "Hydraulics": 50
+    },
+    "cgpa": 6.42,
+    "skills": [
+      "Deep Learning",
+      "Algorithms",
+      "Node.js",
+      "Excel",
+      "JavaScript",
+      "AWS",
+      "SQL",
+      "C++",
+      "Power BI"
+    ],
+    "certifications": [
+      "Microsoft Azure Fundamentals (AZ-900)"
+    ],
+    "placement_status": "Placed",
+    "interview_readiness": 61.8,
+    "study_hours_per_day": 4.2,
+    "risk_level": "Low",
+    "weak_subjects": [
+      "Geotechnical Engineering"
+    ],
+    "resume_score": 72.9
+  },
+  {
+    "student_id": "CIQ0006",
+    "name": "Aarav Singh",
+    "department": "Computer Science",
+    "semester": 4,
+    "attendance_percent": 65.6,
+    "subjects": [
+      "Data Structures",
+      "Operating Systems",
+      "DBMS",
+      "Computer Networks",
+      "Software Engineering"
+    ],
+    "internal_marks": {
+      "Data Structures": 28,
+      "Operating Systems": 12,
+      "DBMS": 12,
+      "Computer Networks": 25,
+      "Software Engineering": 12
+    },
+    "external_marks": {
+      "Data Structures": 98,
+      "Operating Systems": 46,
+      "DBMS": 46,
+      "Computer Networks": 90,
+      "Software Engineering": 100
+    },
+    "cgpa": 7.22,
+    "skills": [
+      "Power BI",
+      "Git",
+      "SQL",
+      "TensorFlow",
+      "Communication",
+      "AWS",
+      "Kubernetes",
+      "Azure"
+    ],
+    "certifications": [
+      "HackerRank Problem Solving (Intermediate)",
+      "Oracle Java SE Certified"
+    ],
+    "placement_status": "Placed",
+    "interview_readiness": 46.1,
+    "study_hours_per_day": 2.2,
+    "risk_level": "Medium",
+    "weak_subjects": [
+      "Operating Systems",
+      "DBMS"
+    ],
+    "resume_score": 64.8
+  },
+  {
+    "student_id": "CIQ0007",
+    "name": "Priya Verma",
+    "department": "Computer Science",
+    "semester": 2,
+    "attendance_percent": 58.1,
+    "subjects": [
+      "Data Structures",
+      "Operating Systems",
+      "DBMS",
+      "Computer Networks",
+      "Software Engineering"
+    ],
+    "internal_marks": {
+      "Data Structures": 30,
+      "Operating Systems": 11,
+      "DBMS": 17,
+      "Computer Networks": 12,
+      "Software Engineering": 11
+    },
+    "external_marks": {
+      "Data Structures": 72,
+      "Operating Systems": 39,
+      "DBMS": 95,
+      "Computer Networks": 60,
+      "Software Engineering": 65
+    },
+    "cgpa": 6.34,
+    "skills": [
+      "TensorFlow",
+      "React",
+      "PyTorch",
+      "Data Structures",
+      "Machine Learning"
+    ],
+    "certifications": [
+      "Cisco CCNA",
+      "Microsoft Azure AI Fundamentals (AI-900)",
+      "Microsoft Azure Fundamentals (AZ-900)"
+    ],
+    "placement_status": "In Progress",
+    "interview_readiness": 58.0,
+    "study_hours_per_day": 5.7,
+    "risk_level": "Medium",
+    "weak_subjects": [
+      "Operating Systems"
+    ],
+    "resume_score": 45.3
+  },
+  {
+    "student_id": "CIQ0008",
+    "name": "Kabir Pillai",
+    "department": "Computer Science",
+    "semester": 8,
+    "attendance_percent": 72.7,
+    "subjects": [
+      "Data Structures",
+      "Operating Systems",
+      "DBMS",
+      "Computer Networks",
+      "Software Engineering"
+    ],
+    "internal_marks": {
+      "Data Structures": 20,
+      "Operating Systems": 13,
+      "DBMS": 17,
+      "Computer Networks": 16,
+      "Software Engineering": 16
+    },
+    "external_marks": {
+      "Data Structures": 98,
+      "Operating Systems": 87,
+      "DBMS": 47,
+      "Computer Networks": 84,
+      "Software Engineering": 53
+    },
+    "cgpa": 6.94,
+    "skills": [
+      "C++",
+      "REST APIs",
+      "TensorFlow",
+      "JavaScript",
+      "Java"
+    ],
+    "certifications": [],
+    "placement_status": "Not Started",
+    "interview_readiness": 90.2,
+    "study_hours_per_day": 2.9,
+    "risk_level": "Medium",
+    "weak_subjects": [
+      "DBMS"
+    ],
+    "resume_score": 93.3
+  },
+  {
+    "student_id": "CIQ0009",
+    "name": "Arjun Iyer",
+    "department": "Mechanical",
+    "semester": 1,
+    "attendance_percent": 64.4,
+    "subjects": [
+      "Thermodynamics",
+      "Fluid Mechanics",
+      "Machine Design",
+      "Manufacturing Processes",
+      "Strength of Materials"
+    ],
+    "internal_marks": {
+      "Thermodynamics": 22,
+      "Fluid Mechanics": 11,
+      "Machine Design": 15,
+      "Manufacturing Processes": 22,
+      "Strength of Materials": 10
+    },
+    "external_marks": {
+      "Thermodynamics": 79,
+      "Fluid Mechanics": 63,
+      "Machine Design": 88,
+      "Manufacturing Processes": 66,
+      "Strength of Materials": 84
+    },
+    "cgpa": 7.08,
+    "skills": [
+      "TensorFlow",
+      "Data Structures",
+      "React",
+      "SQL",
+      "AWS",
+      "PyTorch",
+      "Java",
+      "Communication",
+      "Docker"
+    ],
+    "certifications": [],
+    "placement_status": "In Progress",
+    "interview_readiness": 33.7,
+    "study_hours_per_day": 5.9,
+    "risk_level": "Medium",
+    "weak_subjects": [],
+    "resume_score": 81.1
+  },
+  {
+    "student_id": "CIQ0010",
+    "name": "Aditya Sharma",
+    "department": "Civil",
+    "semester": 8,
+    "attendance_percent": 58.5,
+    "subjects": [
+      "Structural Analysis",
+      "Geotechnical Engineering",
+      "Surveying",
+      "Concrete Technology",
+      "Hydraulics"
+    ],
+    "internal_marks": {
+      "Structural Analysis": 15,
+      "Geotechnical Engineering": 12,
+      "Surveying": 29,
+      "Concrete Technology": 12,
+      "Hydraulics": 17
+    },
+    "external_marks": {
+      "Structural Analysis": 81,
+      "Geotechnical Engineering": 45,
+      "Surveying": 61,
+      "Concrete Technology": 35,
+      "Hydraulics": 40
+    },
+    "cgpa": 5.34,
+    "skills": [
+      "PyTorch",
+      "Algorithms",
+      "Azure",
+      "Deep Learning",
+      "SQL",
+      "Power BI",
+      "Machine Learning",
+      "React"
+    ],
+    "certifications": [
+      "AWS Certified Cloud Practitioner",
+      "Coursera Machine Learning Specialization",
+      "Cisco CCNA"
+    ],
+    "placement_status": "Not Started",
+    "interview_readiness": 50.6,
+    "study_hours_per_day": 3.9,
+    "risk_level": "High",
+    "weak_subjects": [
+      "Geotechnical Engineering",
+      "Concrete Technology",
+      "Hydraulics"
+    ],
+    "resume_score": 56.5
+  },
+  {
+    "student_id": "CIQ0011",
+    "name": "Ishaan Reddy",
+    "department": "Civil",
+    "semester": 5,
+    "attendance_percent": 98.9,
+    "subjects": [
+      "Structural Analysis",
+      "Geotechnical Engineering",
+      "Surveying",
+      "Concrete Technology",
+      "Hydraulics"
+    ],
+    "internal_marks": {
+      "Structural Analysis": 13,
+      "Geotechnical Engineering": 12,
+      "Surveying": 27,
+      "Concrete Technology": 16,
+      "Hydraulics": 26
+    },
+    "external_marks": {
+      "Structural Analysis": 63,
+      "Geotechnical Engineering": 46,
+      "Surveying": 74,
+      "Concrete Technology": 38,
+      "Hydraulics": 61
+    },
+    "cgpa": 5.78,
+    "skills": [
+      "REST APIs",
+      "TensorFlow",
+      "AWS",
+      "Power BI",
+      "Excel"
+    ],
+    "certifications": [],
+    "placement_status": "Not Started",
+    "interview_readiness": 66.0,
+    "study_hours_per_day": 3.6,
+    "risk_level": "Medium",
+    "weak_subjects": [
+      "Geotechnical Engineering",
+      "Concrete Technology"
+    ],
+    "resume_score": 76.7
+  },
+  {
+    "student_id": "CIQ0012",
+    "name": "Ananya Iyer",
+    "department": "Computer Science",
+    "semester": 8,
+    "attendance_percent": 94.1,
+    "subjects": [
+      "Data Structures",
+      "Operating Systems",
+      "DBMS",
+      "Computer Networks",
+      "Software Engineering"
+    ],
+    "internal_marks": {
+      "Data Structures": 27,
+      "Operating Systems": 14,
+      "DBMS": 18,
+      "Computer Networks": 19,
+      "Software Engineering": 29
+    },
+    "external_marks": {
+      "Data Structures": 56,
+      "Operating Systems": 73,
+      "DBMS": 56,
+      "Computer Networks": 63,
+      "Software Engineering": 94
+    },
+    "cgpa": 6.91,
+    "skills": [
+      "C++",
+      "Excel",
+      "Git",
+      "Deep Learning"
+    ],
+    "certifications": [],
+    "placement_status": "In Progress",
+    "interview_readiness": 80.1,
+    "study_hours_per_day": 4.4,
+    "risk_level": "Low",
+    "weak_subjects": [],
+    "resume_score": 40.2
+  },
+  {
+    "student_id": "CIQ0013",
+    "name": "Nikhil Reddy",
+    "department": "Civil",
+    "semester": 4,
+    "attendance_percent": 86.0,
+    "subjects": [
+      "Structural Analysis",
+      "Geotechnical Engineering",
+      "Surveying",
+      "Concrete Technology",
+      "Hydraulics"
+    ],
+    "internal_marks": {
+      "Structural Analysis": 27,
+      "Geotechnical Engineering": 10,
+      "Surveying": 13,
+      "Concrete Technology": 12,
+      "Hydraulics": 14
+    },
+    "external_marks": {
+      "Structural Analysis": 99,
+      "Geotechnical Engineering": 34,
+      "Surveying": 77,
+      "Concrete Technology": 100,
+      "Hydraulics": 48
+    },
+    "cgpa": 6.68,
+    "skills": [
+      "AWS",
+      "Docker",
+      "Java",
+      "SQL"
+    ],
+    "certifications": [
+      "Microsoft Azure AI Fundamentals (AI-900)"
+    ],
+    "placement_status": "Not Started",
+    "interview_readiness": 66.4,
+    "study_hours_per_day": 4.0,
+    "risk_level": "Medium",
+    "weak_subjects": [
+      "Geotechnical Engineering",
+      "Hydraulics"
+    ],
+    "resume_score": 59.5
+  },
+  {
+    "student_id": "CIQ0014",
+    "name": "Aryan Rao",
+    "department": "Information Technology",
+    "semester": 6,
+    "attendance_percent": 98.0,
+    "subjects": [
+      "Web Technologies",
+      "Cloud Computing",
+      "DBMS",
+      "Computer Networks",
+      "Cybersecurity"
+    ],
+    "internal_marks": {
+      "Web Technologies": 15,
+      "Cloud Computing": 23,
+      "DBMS": 10,
+      "Computer Networks": 15,
+      "Cybersecurity": 20
+    },
+    "external_marks": {
+      "Web Technologies": 82,
+      "Cloud Computing": 61,
+      "DBMS": 64,
+      "Computer Networks": 50,
+      "Cybersecurity": 43
+    },
+    "cgpa": 5.89,
+    "skills": [
+      "Data Structures",
+      "Machine Learning",
+      "SQL",
+      "REST APIs"
+    ],
+    "certifications": [
+      "Oracle Java SE Certified",
+      "Cisco CCNA"
+    ],
+    "placement_status": "Placed",
+    "interview_readiness": 44.8,
+    "study_hours_per_day": 3.7,
+    "risk_level": "Medium",
+    "weak_subjects": [
+      "Cybersecurity"
+    ],
+    "resume_score": 83.7
+  },
+  {
+    "student_id": "CIQ0015",
+    "name": "Arjun Nair",
+    "department": "Electronics",
+    "semester": 6,
+    "attendance_percent": 93.0,
+    "subjects": [
+      "Digital Electronics",
+      "Signals & Systems",
+      "Microprocessors",
+      "VLSI Design",
+      "Communication Systems"
+    ],
+    "internal_marks": {
+      "Digital Electronics": 18,
+      "Signals & Systems": 21,
+      "Microprocessors": 30,
+      "VLSI Design": 26,
+      "Communication Systems": 22
+    },
+    "external_marks": {
+      "Digital Electronics": 98,
+      "Signals & Systems": 72,
+      "Microprocessors": 33,
+      "VLSI Design": 44,
+      "Communication Systems": 63
+    },
+    "cgpa": 6.57,
+    "skills": [
+      "Java",
+      "JavaScript",
+      "Power BI",
+      "Git",
+      "Docker",
+      "Azure"
+    ],
+    "certifications": [
+      "Microsoft Azure AI Fundamentals (AI-900)",
+      "Google Data Analytics Certificate",
+      "Oracle Java SE Certified"
+    ],
+    "placement_status": "In Progress",
+    "interview_readiness": 32.9,
+    "study_hours_per_day": 2.2,
+    "risk_level": "Low",
+    "weak_subjects": [
+      "Microprocessors"
+    ],
+    "resume_score": 50.5
+  },
+  {
+    "student_id": "CIQ0016",
+    "name": "Nikhil Joshi",
+    "department": "Mechanical",
+    "semester": 8,
+    "attendance_percent": 58.1,
+    "subjects": [
+      "Thermodynamics",
+      "Fluid Mechanics",
+      "Machine Design",
+      "Manufacturing Processes",
+      "Strength of Materials"
+    ],
+    "internal_marks": {
+      "Thermodynamics": 20,
+      "Fluid Mechanics": 29,
+      "Machine Design": 20,
+      "Manufacturing Processes": 13,
+      "Strength of Materials": 19
+    },
+    "external_marks": {
+      "Thermodynamics": 94,
+      "Fluid Mechanics": 69,
+      "Machine Design": 82,
+      "Manufacturing Processes": 71,
+      "Strength of Materials": 81
+    },
+    "cgpa": 7.66,
+    "skills": [
+      "React",
+      "SQL",
+      "Git",
+      "Kubernetes",
+      "Node.js",
+      "AWS",
+      "PyTorch",
+      "Deep Learning"
+    ],
+    "certifications": [],
+    "placement_status": "Not Started",
+    "interview_readiness": 43.7,
+    "study_hours_per_day": 5.9,
+    "risk_level": "Medium",
+    "weak_subjects": [],
+    "resume_score": 56.7
+  },
+  {
+    "student_id": "CIQ0017",
+    "name": "Aadhya Malhotra",
+    "department": "Mechanical",
+    "semester": 7,
+    "attendance_percent": 74.5,
+    "subjects": [
+      "Thermodynamics",
+      "Fluid Mechanics",
+      "Machine Design",
+      "Manufacturing Processes",
+      "Strength of Materials"
+    ],
+    "internal_marks": {
+      "Thermodynamics": 16,
+      "Fluid Mechanics": 26,
+      "Machine Design": 25,
+      "Manufacturing Processes": 15,
+      "Strength of Materials": 12
+    },
+    "external_marks": {
+      "Thermodynamics": 66,
+      "Fluid Mechanics": 95,
+      "Machine Design": 72,
+      "Manufacturing Processes": 41,
+      "Strength of Materials": 60
+    },
+    "cgpa": 6.58,
+    "skills": [
+      "SQL",
+      "React",
+      "Python",
+      "Java",
+      "Machine Learning"
+    ],
+    "certifications": [
+      "Microsoft Azure AI Fundamentals (AI-900)",
+      "Google Data Analytics Certificate",
+      "Cisco CCNA"
+    ],
+    "placement_status": "Not Started",
+    "interview_readiness": 67.4,
+    "study_hours_per_day": 5.7,
+    "risk_level": "Medium",
+    "weak_subjects": [
+      "Manufacturing Processes"
+    ],
+    "resume_score": 88.7
+  },
+  {
+    "student_id": "CIQ0018",
+    "name": "Ananya Malhotra",
+    "department": "Information Technology",
+    "semester": 4,
+    "attendance_percent": 61.5,
+    "subjects": [
+      "Web Technologies",
+      "Cloud Computing",
+      "DBMS",
+      "Computer Networks",
+      "Cybersecurity"
+    ],
+    "internal_marks": {
+      "Web Technologies": 10,
+      "Cloud Computing": 13,
+      "DBMS": 23,
+      "Computer Networks": 17,
+      "Cybersecurity": 15
+    },
+    "external_marks": {
+      "Web Technologies": 96,
+      "Cloud Computing": 89,
+      "DBMS": 36,
+      "Computer Networks": 61,
+      "Cybersecurity": 45
+    },
+    "cgpa": 6.23,
+    "skills": [
+      "Communication",
+      "Algorithms",
+      "TensorFlow",
+      "Azure",
+      "REST APIs",
+      "Excel",
+      "Git"
+    ],
+    "certifications": [
+      "AWS Certified Cloud Practitioner",
+      "Coursera Machine Learning Specialization",
+      "Google Data Analytics Certificate"
+    ],
+    "placement_status": "Not Started",
+    "interview_readiness": 78.9,
+    "study_hours_per_day": 4.2,
+    "risk_level": "Medium",
+    "weak_subjects": [
+      "DBMS",
+      "Cybersecurity"
+    ],
+    "resume_score": 64.8
+  },
+  {
+    "student_id": "CIQ0019",
+    "name": "Meera Sharma",
+    "department": "Electronics",
+    "semester": 7,
+    "attendance_percent": 74.4,
+    "subjects": [
+      "Digital Electronics",
+      "Signals & Systems",
+      "Microprocessors",
+      "VLSI Design",
+      "Communication Systems"
+    ],
+    "internal_marks": {
+      "Digital Electronics": 19,
+      "Signals & Systems": 17,
+      "Microprocessors": 18,
+      "VLSI Design": 20,
+      "Communication Systems": 20
+    },
+    "external_marks": {
+      "Digital Electronics": 99,
+      "Signals & Systems": 40,
+      "Microprocessors": 47,
+      "VLSI Design": 49,
+      "Communication Systems": 59
+    },
+    "cgpa": 5.97,
+    "skills": [
+      "SQL",
+      "C++",
+      "Git",
+      "Azure",
+      "TensorFlow"
+    ],
+    "certifications": [
+      "Cisco CCNA",
+      "Microsoft Azure Fundamentals (AZ-900)",
+      "Microsoft Azure AI Fundamentals (AI-900)"
+    ],
+    "placement_status": "Not Started",
+    "interview_readiness": 55.3,
+    "study_hours_per_day": 3.7,
+    "risk_level": "Medium",
+    "weak_subjects": [
+      "Signals & Systems"
+    ],
+    "resume_score": 85.8
+  },
+  {
+    "student_id": "CIQ0020",
+    "name": "Aarav Patel",
+    "department": "Mechanical",
+    "semester": 7,
+    "attendance_percent": 55.3,
+    "subjects": [
+      "Thermodynamics",
+      "Fluid Mechanics",
+      "Machine Design",
+      "Manufacturing Processes",
+      "Strength of Materials"
+    ],
+    "internal_marks": {
+      "Thermodynamics": 21,
+      "Fluid Mechanics": 19,
+      "Machine Design": 22,
+      "Manufacturing Processes": 23,
+      "Strength of Materials": 27
+    },
+    "external_marks": {
+      "Thermodynamics": 99,
+      "Fluid Mechanics": 58,
+      "Machine Design": 92,
+      "Manufacturing Processes": 58,
+      "Strength of Materials": 64
+    },
+    "cgpa": 7.43,
+    "skills": [
+      "Kubernetes",
+      "Azure",
+      "Communication",
+      "Node.js"
+    ],
+    "certifications": [
+      "AWS Certified Cloud Practitioner",
+      "Oracle Java SE Certified",
+      "Cisco CCNA"
+    ],
+    "placement_status": "In Progress",
+    "interview_readiness": 55.6,
+    "study_hours_per_day": 4.1,
+    "risk_level": "Medium",
+    "weak_subjects": [],
+    "resume_score": 41.5
+  },
+  {
+    "student_id": "CIQ0021",
+    "name": "Dev Nair",
+    "department": "Information Technology",
+    "semester": 1,
+    "attendance_percent": 93.1,
+    "subjects": [
+      "Web Technologies",
+      "Cloud Computing",
+      "DBMS",
+      "Computer Networks",
+      "Cybersecurity"
+    ],
+    "internal_marks": {
+      "Web Technologies": 15,
+      "Cloud Computing": 11,
+      "DBMS": 18,
+      "Computer Networks": 22,
+      "Cybersecurity": 20
+    },
+    "external_marks": {
+      "Web Technologies": 57,
+      "Cloud Computing": 88,
+      "DBMS": 71,
+      "Computer Networks": 73,
+      "Cybersecurity": 78
+    },
+    "cgpa": 6.97,
+    "skills": [
+      "Deep Learning",
+      "C++",
+      "Data Structures",
+      "Python",
+      "TensorFlow",
+      "Java",
+      "Docker"
+    ],
+    "certifications": [
+      "Microsoft Azure AI Fundamentals (AI-900)"
+    ],
+    "placement_status": "Not Started",
+    "interview_readiness": 72.4,
+    "study_hours_per_day": 2.9,
+    "risk_level": "Low",
+    "weak_subjects": [],
+    "resume_score": 83.0
+  },
+  {
+    "student_id": "CIQ0022",
+    "name": "Ishaan Kapoor",
+    "department": "Civil",
+    "semester": 2,
+    "attendance_percent": 61.7,
+    "subjects": [
+      "Structural Analysis",
+      "Geotechnical Engineering",
+      "Surveying",
+      "Concrete Technology",
+      "Hydraulics"
+    ],
+    "internal_marks": {
+      "Structural Analysis": 14,
+      "Geotechnical Engineering": 25,
+      "Surveying": 13,
+      "Concrete Technology": 28,
+      "Hydraulics": 16
+    },
+    "external_marks": {
+      "Structural Analysis": 89,
+      "Geotechnical Engineering": 62,
+      "Surveying": 77,
+      "Concrete Technology": 51,
+      "Hydraulics": 44
+    },
+    "cgpa": 6.45,
+    "skills": [
+      "AWS",
+      "JavaScript",
+      "PyTorch",
+      "Python",
+      "Communication"
+    ],
+    "certifications": [
+      "Cisco CCNA",
+      "Coursera Machine Learning Specialization",
+      "Microsoft Azure AI Fundamentals (AI-900)"
+    ],
+    "placement_status": "In Progress",
+    "interview_readiness": 74.9,
+    "study_hours_per_day": 6.4,
+    "risk_level": "Medium",
+    "weak_subjects": [
+      "Hydraulics"
+    ],
+    "resume_score": 44.2
+  },
+  {
+    "student_id": "CIQ0023",
+    "name": "Dev Patel",
+    "department": "Civil",
+    "semester": 5,
+    "attendance_percent": 89.4,
+    "subjects": [
+      "Structural Analysis",
+      "Geotechnical Engineering",
+      "Surveying",
+      "Concrete Technology",
+      "Hydraulics"
+    ],
+    "internal_marks": {
+      "Structural Analysis": 21,
+      "Geotechnical Engineering": 27,
+      "Surveying": 23,
+      "Concrete Technology": 21,
+      "Hydraulics": 12
+    },
+    "external_marks": {
+      "Structural Analysis": 94,
+      "Geotechnical Engineering": 73,
+      "Surveying": 31,
+      "Concrete Technology": 83,
+      "Hydraulics": 92
+    },
+    "cgpa": 7.34,
+    "skills": [
+      "Excel",
+      "REST APIs",
+      "React",
+      "Git",
+      "Node.js",
+      "Algorithms"
+    ],
+    "certifications": [
+      "HackerRank Problem Solving (Intermediate)",
+      "Google Data Analytics Certificate"
+    ],
+    "placement_status": "In Progress",
+    "interview_readiness": 77.5,
+    "study_hours_per_day": 1.7,
+    "risk_level": "Medium",
+    "weak_subjects": [
+      "Surveying"
+    ],
+    "resume_score": 64.0
+  },
+  {
+    "student_id": "CIQ0024",
+    "name": "Dev Malhotra",
+    "department": "Mechanical",
+    "semester": 8,
+    "attendance_percent": 65.7,
+    "subjects": [
+      "Thermodynamics",
+      "Fluid Mechanics",
+      "Machine Design",
+      "Manufacturing Processes",
+      "Strength of Materials"
+    ],
+    "internal_marks": {
+      "Thermodynamics": 24,
+      "Fluid Mechanics": 28,
+      "Machine Design": 29,
+      "Manufacturing Processes": 22,
+      "Strength of Materials": 20
+    },
+    "external_marks": {
+      "Thermodynamics": 33,
+      "Fluid Mechanics": 93,
+      "Machine Design": 71,
+      "Manufacturing Processes": 53,
+      "Strength of Materials": 92
+    },
+    "cgpa": 7.15,
+    "skills": [
+      "Azure",
+      "Deep Learning",
+      "Power BI",
+      "Excel",
+      "TensorFlow",
+      "Python"
+    ],
+    "certifications": [
+      "Microsoft Azure AI Fundamentals (AI-900)"
+    ],
+    "placement_status": "In Progress",
+    "interview_readiness": 56.4,
+    "study_hours_per_day": 2.5,
+    "risk_level": "Medium",
+    "weak_subjects": [
+      "Thermodynamics"
+    ],
+    "resume_score": 53.3
+  },
+  {
+    "student_id": "CIQ0025",
+    "name": "Kabir Nair",
+    "department": "Mechanical",
+    "semester": 4,
+    "attendance_percent": 89.9,
+    "subjects": [
+      "Thermodynamics",
+      "Fluid Mechanics",
+      "Machine Design",
+      "Manufacturing Processes",
+      "Strength of Materials"
+    ],
+    "internal_marks": {
+      "Thermodynamics": 12,
+      "Fluid Mechanics": 19,
+      "Machine Design": 17,
+      "Manufacturing Processes": 22,
+      "Strength of Materials": 17
+    },
+    "external_marks": {
+      "Thermodynamics": 69,
+      "Fluid Mechanics": 77,
+      "Machine Design": 90,
+      "Manufacturing Processes": 100,
+      "Strength of Materials": 97
+    },
+    "cgpa": 8.0,
+    "skills": [
+      "TensorFlow",
+      "Azure",
+      "Docker",
+      "REST APIs",
+      "Deep Learning",
+      "AWS",
+      "Communication",
+      "JavaScript",
+      "Java"
+    ],
+    "certifications": [
+      "Coursera Machine Learning Specialization"
+    ],
+    "placement_status": "Not Started",
+    "interview_readiness": 64.8,
+    "study_hours_per_day": 3.4,
+    "risk_level": "Low",
+    "weak_subjects": [],
+    "resume_score": 46.6
+  },
+  {
+    "student_id": "CIQ0026",
+    "name": "Kabir Verma",
+    "department": "AI & Data Science",
+    "semester": 5,
+    "attendance_percent": 76.3,
+    "subjects": [
+      "Machine Learning",
+      "Deep Learning",
+      "Statistics for AI",
+      "Data Mining",
+      "NLP"
+    ],
+    "internal_marks": {
+      "Machine Learning": 28,
+      "Deep Learning": 26,
+      "Statistics for AI": 29,
+      "Data Mining": 19,
+      "NLP": 13
+    },
+    "external_marks": {
+      "Machine Learning": 54,
+      "Deep Learning": 67,
+      "Statistics for AI": 59,
+      "Data Mining": 76,
+      "NLP": 52
+    },
+    "cgpa": 6.51,
+    "skills": [
+      "TensorFlow",
+      "React",
+      "Deep Learning",
+      "Java",
+      "PyTorch",
+      "AWS",
+      "Excel",
+      "Azure",
+      "Git"
+    ],
+    "certifications": [
+      "Microsoft Azure AI Fundamentals (AI-900)",
+      "Cisco CCNA",
+      "Microsoft Azure Fundamentals (AZ-900)"
+    ],
+    "placement_status": "In Progress",
+    "interview_readiness": 60.5,
+    "study_hours_per_day": 3.1,
+    "risk_level": "Low",
+    "weak_subjects": [],
+    "resume_score": 71.6
+  },
+  {
+    "student_id": "CIQ0027",
+    "name": "Nikhil Verma",
+    "department": "Mechanical",
+    "semester": 2,
+    "attendance_percent": 60.0,
+    "subjects": [
+      "Thermodynamics",
+      "Fluid Mechanics",
+      "Machine Design",
+      "Manufacturing Processes",
+      "Strength of Materials"
+    ],
+    "internal_marks": {
+      "Thermodynamics": 12,
+      "Fluid Mechanics": 22,
+      "Machine Design": 25,
+      "Manufacturing Processes": 12,
+      "Strength of Materials": 28
+    },
+    "external_marks": {
+      "Thermodynamics": 36,
+      "Fluid Mechanics": 49,
+      "Machine Design": 49,
+      "Manufacturing Processes": 68,
+      "Strength of Materials": 40
+    },
+    "cgpa": 5.25,
+    "skills": [
+      "TensorFlow",
+      "Git",
+      "Power BI",
+      "Machine Learning"
+    ],
+    "certifications": [
+      "HackerRank Problem Solving (Intermediate)",
+      "Google Data Analytics Certificate",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "placement_status": "In Progress",
+    "interview_readiness": 94.4,
+    "study_hours_per_day": 8.0,
+    "risk_level": "Medium",
+    "weak_subjects": [
+      "Thermodynamics"
+    ],
+    "resume_score": 87.3
+  },
+  {
+    "student_id": "CIQ0028",
+    "name": "Aryan Pillai",
+    "department": "Information Technology",
+    "semester": 2,
+    "attendance_percent": 82.5,
+    "subjects": [
+      "Web Technologies",
+      "Cloud Computing",
+      "DBMS",
+      "Computer Networks",
+      "Cybersecurity"
+    ],
+    "internal_marks": {
+      "Web Technologies": 18,
+      "Cloud Computing": 12,
+      "DBMS": 15,
+      "Computer Networks": 17,
+      "Cybersecurity": 15
+    },
+    "external_marks": {
+      "Web Technologies": 100,
+      "Cloud Computing": 39,
+      "DBMS": 50,
+      "Computer Networks": 30,
+      "Cybersecurity": 82
+    },
+    "cgpa": 5.82,
+    "skills": [
+      "Data Structures",
+      "AWS",
+      "Java",
+      "Machine Learning",
+      "Excel",
+      "TensorFlow",
+      "REST APIs",
+      "Power BI"
+    ],
+    "certifications": [
+      "Oracle Java SE Certified"
+    ],
+    "placement_status": "In Progress",
+    "interview_readiness": 70.6,
+    "study_hours_per_day": 4.2,
+    "risk_level": "Medium",
+    "weak_subjects": [
+      "Cloud Computing",
+      "Computer Networks"
+    ],
+    "resume_score": 83.3
+  },
+  {
+    "student_id": "CIQ0029",
+    "name": "Nikhil Mehta",
+    "department": "Civil",
+    "semester": 1,
+    "attendance_percent": 64.9,
+    "subjects": [
+      "Structural Analysis",
+      "Geotechnical Engineering",
+      "Surveying",
+      "Concrete Technology",
+      "Hydraulics"
+    ],
+    "internal_marks": {
+      "Structural Analysis": 14,
+      "Geotechnical Engineering": 18,
+      "Surveying": 14,
+      "Concrete Technology": 12,
+      "Hydraulics": 11
+    },
+    "external_marks": {
+      "Structural Analysis": 51,
+      "Geotechnical Engineering": 69,
+      "Surveying": 66,
+      "Concrete Technology": 86,
+      "Hydraulics": 45
+    },
+    "cgpa": 5.94,
+    "skills": [
+      "Kubernetes",
+      "Deep Learning",
+      "Algorithms",
+      "TensorFlow",
+      "Data Structures",
+      "REST APIs"
+    ],
+    "certifications": [],
+    "placement_status": "Not Started",
+    "interview_readiness": 87.8,
+    "study_hours_per_day": 4.3,
+    "risk_level": "Medium",
+    "weak_subjects": [
+      "Hydraulics"
+    ],
+    "resume_score": 72.9
+  },
+  {
+    "student_id": "CIQ0030",
+    "name": "Kiara Malhotra",
+    "department": "Computer Science",
+    "semester": 5,
+    "attendance_percent": 65.1,
+    "subjects": [
+      "Data Structures",
+      "Operating Systems",
+      "DBMS",
+      "Computer Networks",
+      "Software Engineering"
+    ],
+    "internal_marks": {
+      "Data Structures": 28,
+      "Operating Systems": 28,
+      "DBMS": 10,
+      "Computer Networks": 18,
+      "Software Engineering": 28
+    },
+    "external_marks": {
+      "Data Structures": 35,
+      "Operating Systems": 52,
+      "DBMS": 90,
+      "Computer Networks": 96,
+      "Software Engineering": 86
+    },
+    "cgpa": 7.25,
+    "skills": [
+      "PyTorch",
+      "Git",
+      "Excel",
+      "Data Structures",
+      "C++"
+    ],
+    "certifications": [
+      "Coursera Machine Learning Specialization",
+      "Google Data Analytics Certificate",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "placement_status": "Placed",
+    "interview_readiness": 36.8,
+    "study_hours_per_day": 7.4,
+    "risk_level": "Medium",
+    "weak_subjects": [
+      "Data Structures"
+    ],
+    "resume_score": 57.7
+  },
+  {
+    "student_id": "CIQ0031",
+    "name": "Sneha Desai",
+    "department": "AI & Data Science",
+    "semester": 1,
+    "attendance_percent": 96.6,
+    "subjects": [
+      "Machine Learning",
+      "Deep Learning",
+      "Statistics for AI",
+      "Data Mining",
+      "NLP"
+    ],
+    "internal_marks": {
+      "Machine Learning": 27,
+      "Deep Learning": 11,
+      "Statistics for AI": 24,
+      "Data Mining": 12,
+      "NLP": 20
+    },
+    "external_marks": {
+      "Machine Learning": 62,
+      "Deep Learning": 71,
+      "Statistics for AI": 44,
+      "Data Mining": 81,
+      "NLP": 95
+    },
+    "cgpa": 6.88,
+    "skills": [
+      "Communication",
+      "TensorFlow",
+      "REST APIs",
+      "Git"
+    ],
+    "certifications": [],
+    "placement_status": "Not Started",
+    "interview_readiness": 53.5,
+    "study_hours_per_day": 6.8,
+    "risk_level": "Low",
+    "weak_subjects": [],
+    "resume_score": 50.3
+  },
+  {
+    "student_id": "CIQ0032",
+    "name": "Sahil Reddy",
+    "department": "Information Technology",
+    "semester": 7,
+    "attendance_percent": 66.8,
+    "subjects": [
+      "Web Technologies",
+      "Cloud Computing",
+      "DBMS",
+      "Computer Networks",
+      "Cybersecurity"
+    ],
+    "internal_marks": {
+      "Web Technologies": 14,
+      "Cloud Computing": 19,
+      "DBMS": 24,
+      "Computer Networks": 25,
+      "Cybersecurity": 13
+    },
+    "external_marks": {
+      "Web Technologies": 33,
+      "Cloud Computing": 60,
+      "DBMS": 50,
+      "Computer Networks": 69,
+      "Cybersecurity": 100
+    },
+    "cgpa": 6.26,
+    "skills": [
+      "C++",
+      "Machine Learning",
+      "JavaScript",
+      "REST APIs",
+      "Power BI",
+      "React",
+      "Data Structures"
+    ],
+    "certifications": [
+      "Oracle Java SE Certified",
+      "Google Data Analytics Certificate"
+    ],
+    "placement_status": "Placed",
+    "interview_readiness": 93.7,
+    "study_hours_per_day": 1.1,
+    "risk_level": "Medium",
+    "weak_subjects": [
+      "Web Technologies"
+    ],
+    "resume_score": 85.9
+  },
+  {
+    "student_id": "CIQ0033",
+    "name": "Kiara Verma",
+    "department": "Information Technology",
+    "semester": 6,
+    "attendance_percent": 95.6,
+    "subjects": [
+      "Web Technologies",
+      "Cloud Computing",
+      "DBMS",
+      "Computer Networks",
+      "Cybersecurity"
+    ],
+    "internal_marks": {
+      "Web Technologies": 26,
+      "Cloud Computing": 14,
+      "DBMS": 12,
+      "Computer Networks": 18,
+      "Cybersecurity": 23
+    },
+    "external_marks": {
+      "Web Technologies": 73,
+      "Cloud Computing": 94,
+      "DBMS": 64,
+      "Computer Networks": 30,
+      "Cybersecurity": 66
+    },
+    "cgpa": 6.46,
+    "skills": [
+      "PyTorch",
+      "Data Structures",
+      "React",
+      "REST APIs",
+      "TensorFlow",
+      "Excel",
+      "Docker",
+      "Node.js"
+    ],
+    "certifications": [
+      "HackerRank Problem Solving (Intermediate)",
+      "AWS Certified Cloud Practitioner",
+      "Microsoft Azure AI Fundamentals (AI-900)"
+    ],
+    "placement_status": "In Progress",
+    "interview_readiness": 45.5,
+    "study_hours_per_day": 6.1,
+    "risk_level": "Low",
+    "weak_subjects": [
+      "Computer Networks"
+    ],
+    "resume_score": 93.9
+  },
+  {
+    "student_id": "CIQ0034",
+    "name": "Meera Rao",
+    "department": "AI & Data Science",
+    "semester": 2,
+    "attendance_percent": 75.8,
+    "subjects": [
+      "Machine Learning",
+      "Deep Learning",
+      "Statistics for AI",
+      "Data Mining",
+      "NLP"
+    ],
+    "internal_marks": {
+      "Machine Learning": 22,
+      "Deep Learning": 22,
+      "Statistics for AI": 30,
+      "Data Mining": 14,
+      "NLP": 25
+    },
+    "external_marks": {
+      "Machine Learning": 34,
+      "Deep Learning": 46,
+      "Statistics for AI": 94,
+      "Data Mining": 72,
+      "NLP": 42
+    },
+    "cgpa": 6.17,
+    "skills": [
+      "JavaScript",
+      "Algorithms",
+      "REST APIs",
+      "Python",
+      "React",
+      "Git",
+      "TensorFlow"
+    ],
+    "certifications": [],
+    "placement_status": "In Progress",
+    "interview_readiness": 93.0,
+    "study_hours_per_day": 7.1,
+    "risk_level": "Low",
+    "weak_subjects": [
+      "Machine Learning"
+    ],
+    "resume_score": 65.8
+  },
+  {
+    "student_id": "CIQ0035",
+    "name": "Kiara Reddy",
+    "department": "Electronics",
+    "semester": 4,
+    "attendance_percent": 92.5,
+    "subjects": [
+      "Digital Electronics",
+      "Signals & Systems",
+      "Microprocessors",
+      "VLSI Design",
+      "Communication Systems"
+    ],
+    "internal_marks": {
+      "Digital Electronics": 27,
+      "Signals & Systems": 22,
+      "Microprocessors": 20,
+      "VLSI Design": 30,
+      "Communication Systems": 25
+    },
+    "external_marks": {
+      "Digital Electronics": 99,
+      "Signals & Systems": 34,
+      "Microprocessors": 38,
+      "VLSI Design": 60,
+      "Communication Systems": 66
+    },
+    "cgpa": 6.48,
+    "skills": [
+      "C++",
+      "Git",
+      "JavaScript",
+      "Power BI",
+      "REST APIs",
+      "Node.js",
+      "AWS",
+      "TensorFlow",
+      "Python"
+    ],
+    "certifications": [],
+    "placement_status": "In Progress",
+    "interview_readiness": 33.6,
+    "study_hours_per_day": 8.0,
+    "risk_level": "Medium",
+    "weak_subjects": [
+      "Signals & Systems",
+      "Microprocessors"
+    ],
+    "resume_score": 57.8
+  },
+  {
+    "student_id": "CIQ0036",
+    "name": "Sneha Pillai",
+    "department": "Civil",
+    "semester": 5,
+    "attendance_percent": 73.1,
+    "subjects": [
+      "Structural Analysis",
+      "Geotechnical Engineering",
+      "Surveying",
+      "Concrete Technology",
+      "Hydraulics"
+    ],
+    "internal_marks": {
+      "Structural Analysis": 15,
+      "Geotechnical Engineering": 15,
+      "Surveying": 15,
+      "Concrete Technology": 12,
+      "Hydraulics": 29
+    },
+    "external_marks": {
+      "Structural Analysis": 78,
+      "Geotechnical Engineering": 60,
+      "Surveying": 93,
+      "Concrete Technology": 48,
+      "Hydraulics": 59
+    },
+    "cgpa": 6.52,
+    "skills": [
+      "REST APIs",
+      "Deep Learning",
+      "Python",
+      "Communication",
+      "AWS",
+      "Node.js"
+    ],
+    "certifications": [],
+    "placement_status": "In Progress",
+    "interview_readiness": 52.5,
+    "study_hours_per_day": 4.2,
+    "risk_level": "Medium",
+    "weak_subjects": [
+      "Concrete Technology"
+    ],
+    "resume_score": 64.3
+  },
+  {
+    "student_id": "CIQ0037",
+    "name": "Tanya Reddy",
+    "department": "Mechanical",
+    "semester": 2,
+    "attendance_percent": 92.2,
+    "subjects": [
+      "Thermodynamics",
+      "Fluid Mechanics",
+      "Machine Design",
+      "Manufacturing Processes",
+      "Strength of Materials"
+    ],
+    "internal_marks": {
+      "Thermodynamics": 16,
+      "Fluid Mechanics": 22,
+      "Machine Design": 25,
+      "Manufacturing Processes": 13,
+      "Strength of Materials": 17
+    },
+    "external_marks": {
+      "Thermodynamics": 78,
+      "Fluid Mechanics": 75,
+      "Machine Design": 67,
+      "Manufacturing Processes": 67,
+      "Strength of Materials": 32
+    },
+    "cgpa": 6.34,
+    "skills": [
+      "Kubernetes",
+      "Deep Learning",
+      "Python",
+      "PyTorch",
+      "Java",
+      "Data Structures",
+      "AWS",
+      "Communication",
+      "REST APIs"
+    ],
+    "certifications": [
+      "Coursera Machine Learning Specialization"
+    ],
+    "placement_status": "In Progress",
+    "interview_readiness": 42.4,
+    "study_hours_per_day": 7.8,
+    "risk_level": "Low",
+    "weak_subjects": [
+      "Strength of Materials"
+    ],
+    "resume_score": 52.0
+  },
+  {
+    "student_id": "CIQ0038",
+    "name": "Priya Patel",
+    "department": "AI & Data Science",
+    "semester": 3,
+    "attendance_percent": 83.4,
+    "subjects": [
+      "Machine Learning",
+      "Deep Learning",
+      "Statistics for AI",
+      "Data Mining",
+      "NLP"
+    ],
+    "internal_marks": {
+      "Machine Learning": 19,
+      "Deep Learning": 24,
+      "Statistics for AI": 11,
+      "Data Mining": 28,
+      "NLP": 21
+    },
+    "external_marks": {
+      "Machine Learning": 46,
+      "Deep Learning": 41,
+      "Statistics for AI": 67,
+      "Data Mining": 71,
+      "NLP": 83
+    },
+    "cgpa": 6.32,
+    "skills": [
+      "TensorFlow",
+      "Docker",
+      "Algorithms",
+      "Deep Learning",
+      "Node.js"
+    ],
+    "certifications": [
+      "HackerRank Problem Solving (Intermediate)",
+      "Cisco CCNA"
+    ],
+    "placement_status": "Not Started",
+    "interview_readiness": 86.6,
+    "study_hours_per_day": 2.2,
+    "risk_level": "Low",
+    "weak_subjects": [],
+    "resume_score": 56.2
+  },
+  {
+    "student_id": "CIQ0039",
+    "name": "Diya Pillai",
+    "department": "Information Technology",
+    "semester": 2,
+    "attendance_percent": 92.8,
+    "subjects": [
+      "Web Technologies",
+      "Cloud Computing",
+      "DBMS",
+      "Computer Networks",
+      "Cybersecurity"
+    ],
+    "internal_marks": {
+      "Web Technologies": 22,
+      "Cloud Computing": 27,
+      "DBMS": 21,
+      "Computer Networks": 12,
+      "Cybersecurity": 22
+    },
+    "external_marks": {
+      "Web Technologies": 31,
+      "Cloud Computing": 63,
+      "DBMS": 98,
+      "Computer Networks": 45,
+      "Cybersecurity": 88
+    },
+    "cgpa": 6.6,
+    "skills": [
+      "Communication",
+      "Deep Learning",
+      "PyTorch",
+      "Kubernetes",
+      "Docker",
+      "JavaScript",
+      "Machine Learning",
+      "Data Structures",
+      "Python"
+    ],
+    "certifications": [
+      "Google Data Analytics Certificate",
+      "Coursera Machine Learning Specialization"
+    ],
+    "placement_status": "Not Started",
+    "interview_readiness": 83.6,
+    "study_hours_per_day": 3.6,
+    "risk_level": "Medium",
+    "weak_subjects": [
+      "Web Technologies",
+      "Computer Networks"
+    ],
+    "resume_score": 43.5
+  },
+  {
+    "student_id": "CIQ0040",
+    "name": "Myra Gupta",
+    "department": "Information Technology",
+    "semester": 6,
+    "attendance_percent": 57.0,
+    "subjects": [
+      "Web Technologies",
+      "Cloud Computing",
+      "DBMS",
+      "Computer Networks",
+      "Cybersecurity"
+    ],
+    "internal_marks": {
+      "Web Technologies": 11,
+      "Cloud Computing": 19,
+      "DBMS": 25,
+      "Computer Networks": 13,
+      "Cybersecurity": 13
+    },
+    "external_marks": {
+      "Web Technologies": 60,
+      "Cloud Computing": 98,
+      "DBMS": 47,
+      "Computer Networks": 79,
+      "Cybersecurity": 88
+    },
+    "cgpa": 6.97,
+    "skills": [
+      "TensorFlow",
+      "Git",
+      "PyTorch",
+      "React",
+      "Excel",
+      "JavaScript",
+      "Data Structures",
+      "AWS",
+      "SQL"
+    ],
+    "certifications": [
+      "Microsoft Azure Fundamentals (AZ-900)",
+      "Coursera Machine Learning Specialization"
+    ],
+    "placement_status": "Not Started",
+    "interview_readiness": 58.8,
+    "study_hours_per_day": 3.6,
+    "risk_level": "Medium",
+    "weak_subjects": [],
+    "resume_score": 60.4
+  }
+]
